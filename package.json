@@ -1,0 +1,27 @@
+{
+  "name": "gemini-flash-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gumthea/gemini-flash-api-batch-13.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gumthea/gemini-flash-api-batch-13/issues"
+  },
+  "homepage": "https://github.com/gumthea/gemini-flash-api-batch-13#readme",
+  "type": "module",
+  "dependencies": {
+    "@google/genai": "^1.15.0",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "multer": "^2.0.2"
+  }
+}
